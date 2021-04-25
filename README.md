@@ -1,1 +1,1 @@
-Respoitory to work on my personal website.
+Repository to work on my personal website.
