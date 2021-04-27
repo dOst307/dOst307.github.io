@@ -1,9 +1,20 @@
+* {
+	box-sizing:border-box;
+}
+
 .header {
 	color:black;
 	background-color:white;
 	text-align:center;
 	font-family:Helvetica, Arial, sans-serif;
 	padding:30px;
+}
+
+.footer {
+	color:black;
+	background-color:white;
+	text-align:center;
+	padding:10px;
 }
 
 body {
