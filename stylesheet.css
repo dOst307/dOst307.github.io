@@ -1,3 +1,9 @@
 body {
 	background-color:lightgrey;
 }
+
+.topHeader {
+	color: white;
+	background-color: black;
+	text-align: center;
+}
