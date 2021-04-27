@@ -3,7 +3,8 @@ body {
 }
 
 .topHeader {
-	color: white;
-	background-color: black;
-	text-align: center;
+	color:white;
+	background-color:black;
+	text-align:center;
+	font-family:Helvetica;
 }
