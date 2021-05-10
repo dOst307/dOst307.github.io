@@ -65,3 +65,17 @@ body {
   text-align:center;
   padding:10px;
 }
+
+@media screen and (max-width:800px) {
+  .column.middle, .column.side {
+	  width:100%;
+	  padding:0;
+  }
+}
+
+@media screen and (max-width:400px) {
+  .topnav a{
+	  float:none;
+	  width:100%;
+  }
+}
