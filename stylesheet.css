@@ -37,6 +37,7 @@ body {
 .column {
   float:left;
   padding:10px;
+  background-color:white;
 }
 
 .column.side {
