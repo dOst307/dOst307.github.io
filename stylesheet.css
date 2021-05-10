@@ -5,6 +5,7 @@
 body {
   background-color:lightgrey;
   font-family:Helvetica, Arial, sans-serif;
+  padding:10x;
 }
 
 .header {
@@ -31,6 +32,25 @@ body {
 .topnav a:hover {
   background-color:#ddd;
   color:black;
+}
+
+.column {
+  float:left;
+  padding:10px;
+}
+
+.column.side {
+  width:25%;
+}
+
+.column.middle {
+  width:75%;
+}
+
+.row:after {
+  content:"";
+  display:table;
+  clear: both;
 }
 
 .footer {
