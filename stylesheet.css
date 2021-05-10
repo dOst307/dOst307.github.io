@@ -2,6 +2,10 @@
 	box-sizing:border-box;
 }
 
+body {
+	background-color:lightgrey;
+}
+
 .header {
 	color:black;
 	background-color:white;
@@ -10,14 +14,28 @@
 	padding:30px;
 }
 
+.topnav {
+	overflow:hidden;
+	background-color:#333
+}
+
+.topnav a {
+	float:left;
+	display:block;
+	color:#f2f2f2;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color:black;
+}
+
 .footer {
 	color:black;
 	background-color:white;
 	text-align:center;
 	padding:10px;
 }
-
-body {
-	background-color:lightgrey;
-}
-
